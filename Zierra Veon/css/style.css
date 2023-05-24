@@ -2406,3 +2406,8 @@ input[type="checkbox"] {
     margin-bottom: 0px;
     font-family: 'Rambla', sans-serif;
 }
+
+.owl-carousel .owl-stage {
+    display: flex;
+    align-items: center;
+}
